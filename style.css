@@ -1,0 +1,24 @@
+
+h1{
+    color: blue;
+    margin-left: 175px;
+}
+
+h3{
+    color: red;
+}
+
+p{
+    color: #000;
+}
+
+ul li{
+    color: #000;
+}
+
+nav.menu-nav ul li.btn{
+    list-style-type: circle;
+}
+
+nav.menu-nav ul li.btn a{
+    color: #000;
